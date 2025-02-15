@@ -78,4 +78,3 @@ This project is open-source under the [MIT License](LICENSE).
 For any issues, feel free to reach out:
 - **GitHub:** [your-profile](https://github.com/your-profile)
 - **Email:** your-email@example.com
-
